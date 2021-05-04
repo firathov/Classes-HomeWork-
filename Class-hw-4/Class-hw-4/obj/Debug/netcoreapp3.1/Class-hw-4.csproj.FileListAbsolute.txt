@@ -1,0 +1,12 @@
+/Users/firat/Documents/Classes/Class-hw-4/Class-hw-4/bin/Debug/netcoreapp3.1/Class-hw-4.deps.json
+/Users/firat/Documents/Classes/Class-hw-4/Class-hw-4/bin/Debug/netcoreapp3.1/Class-hw-4.runtimeconfig.json
+/Users/firat/Documents/Classes/Class-hw-4/Class-hw-4/bin/Debug/netcoreapp3.1/Class-hw-4.runtimeconfig.dev.json
+/Users/firat/Documents/Classes/Class-hw-4/Class-hw-4/bin/Debug/netcoreapp3.1/Class-hw-4.dll
+/Users/firat/Documents/Classes/Class-hw-4/Class-hw-4/bin/Debug/netcoreapp3.1/Class-hw-4.pdb
+/Users/firat/Documents/Classes/Class-hw-4/Class-hw-4/obj/Debug/netcoreapp3.1/Class-hw-4.csprojAssemblyReference.cache
+/Users/firat/Documents/Classes/Class-hw-4/Class-hw-4/obj/Debug/netcoreapp3.1/Class-hw-4.AssemblyInfoInputs.cache
+/Users/firat/Documents/Classes/Class-hw-4/Class-hw-4/obj/Debug/netcoreapp3.1/Class-hw-4.AssemblyInfo.cs
+/Users/firat/Documents/Classes/Class-hw-4/Class-hw-4/obj/Debug/netcoreapp3.1/Class-hw-4.csproj.CoreCompileInputs.cache
+/Users/firat/Documents/Classes/Class-hw-4/Class-hw-4/obj/Debug/netcoreapp3.1/Class-hw-4.dll
+/Users/firat/Documents/Classes/Class-hw-4/Class-hw-4/obj/Debug/netcoreapp3.1/Class-hw-4.pdb
+/Users/firat/Documents/Classes/Class-hw-4/Class-hw-4/obj/Debug/netcoreapp3.1/Class-hw-4.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{6E367DCD-514B-4D06-9C54-0772BCF961B3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Class-hw1/Program.cs">
+    <Files>
+      <File FileName="Class-hw1/Program.cs" Line="104" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Class-hw1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
