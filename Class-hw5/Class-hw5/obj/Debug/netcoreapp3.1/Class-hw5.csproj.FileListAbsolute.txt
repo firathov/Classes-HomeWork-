@@ -1,0 +1,12 @@
+/Users/firat/Documents/Classes/Class-hw5/Class-hw5/bin/Debug/netcoreapp3.1/Class-hw5.deps.json
+/Users/firat/Documents/Classes/Class-hw5/Class-hw5/bin/Debug/netcoreapp3.1/Class-hw5.runtimeconfig.json
+/Users/firat/Documents/Classes/Class-hw5/Class-hw5/bin/Debug/netcoreapp3.1/Class-hw5.runtimeconfig.dev.json
+/Users/firat/Documents/Classes/Class-hw5/Class-hw5/bin/Debug/netcoreapp3.1/Class-hw5.dll
+/Users/firat/Documents/Classes/Class-hw5/Class-hw5/bin/Debug/netcoreapp3.1/Class-hw5.pdb
+/Users/firat/Documents/Classes/Class-hw5/Class-hw5/obj/Debug/netcoreapp3.1/Class-hw5.csprojAssemblyReference.cache
+/Users/firat/Documents/Classes/Class-hw5/Class-hw5/obj/Debug/netcoreapp3.1/Class-hw5.AssemblyInfoInputs.cache
+/Users/firat/Documents/Classes/Class-hw5/Class-hw5/obj/Debug/netcoreapp3.1/Class-hw5.AssemblyInfo.cs
+/Users/firat/Documents/Classes/Class-hw5/Class-hw5/obj/Debug/netcoreapp3.1/Class-hw5.csproj.CoreCompileInputs.cache
+/Users/firat/Documents/Classes/Class-hw5/Class-hw5/obj/Debug/netcoreapp3.1/Class-hw5.dll
+/Users/firat/Documents/Classes/Class-hw5/Class-hw5/obj/Debug/netcoreapp3.1/Class-hw5.pdb
+/Users/firat/Documents/Classes/Class-hw5/Class-hw5/obj/Debug/netcoreapp3.1/Class-hw5.genruntimeconfig.cache
